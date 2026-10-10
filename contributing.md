@@ -52,4 +52,4 @@ El botón verde en la sección Inicio rápido.
 
 <p align="center"><a href="https://share.google/WDrY6S5H6VqjKJMsn"><b>⬇ Download Roblox Script — free (2026)</b></a></p>
 
-<p align="center"><sub>Compartido bajo licencia MIT · Actualizado 2026-10-09</sub></p>
+<p align="center"><sub>Compartido bajo licencia MIT · Actualizado 2026-10-10</sub></p>
